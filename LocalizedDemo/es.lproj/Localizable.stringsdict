@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+  <key>item_count</key>
+  <dict>
+    <key>NSStringLocalizedFormatKey</key>
+    <string>%#@items@</string>
+    <key>items</key>
+    <dict>
+      <key>NSStringFormatSpecTypeKey</key>
+      <string>NSStringPluralRuleType</string>
+      <key>NSStringFormatValueTypeKey</key>
+      <string>d</string>
+      <key>zero</key>
+      <string>No tienes artículos</string>
+      <key>one</key>
+      <string>Tienes 1 artículo</string>
+      <key>other</key>
+      <string>Tienes %d artículos</string>
+    </dict>
+  </dict>
+</dict>
+</plist>
